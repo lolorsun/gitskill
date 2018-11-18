@@ -1,2 +1,6 @@
 # gitskill
-new he branch
+<<<<<<< HEAD
+new and branch
+=======
+new and branch
+>>>>>>> chongtu
