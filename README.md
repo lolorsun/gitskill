@@ -1,2 +1,2 @@
 # gitskill
-new branch
+new and branch
